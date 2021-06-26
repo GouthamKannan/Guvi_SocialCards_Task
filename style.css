@@ -1,0 +1,30 @@
+body{
+    background-color: #eee;
+}
+
+.fa{
+    color:rgb(31, 128, 255);
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 2px solid rgb(0, 132, 255);
+}
+
+.box-part{
+    background-color: white;
+    padding: 60px 0px;
+    margin: 30px 0px;
+}
+
+.text{
+    margin: 20px 6px;
+}
+
+span{
+    font-size: 15px;
+}
+
+.box{
+    padding: 60px 0px;
+}
